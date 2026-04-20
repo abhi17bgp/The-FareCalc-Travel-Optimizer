@@ -1,0 +1,9 @@
+RATES = {
+    "ECONOMY": 10,
+    "PREMIUM": 18,
+    "SUV": 25
+}
+
+SURGE_START = 17
+SURGE_END = 20
+SURGE_MULTIPLIER = 1.5
