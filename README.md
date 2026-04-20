@@ -32,8 +32,7 @@ The goal is to calculate a final ride estimate using these parameters.
 ## Project Structure
 
 ```id="8u8g0b"
-Python Project/
- └── The FareCalc Travel Optimizer/
+ The FareCalc Travel Optimizer/
       ├── main.py
       └── fare/
            ├── config.py
