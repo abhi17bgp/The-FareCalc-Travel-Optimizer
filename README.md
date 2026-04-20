@@ -31,14 +31,16 @@ The goal is to calculate a final ride estimate using these parameters.
 
 ## Project Structure
 
-```id="8u8g0b"
- The FareCalc Travel Optimizer/
-      ├── main.py
-      └── fare/
-           ├── config.py
-           ├── calculator.py
-           └── utils.py
-```
+The FareCalc Travel Optimizer/
+├── main.py
+├── README.md
+├── .gitignore
+├── images/
+│   └── output.png
+└── fare/
+    ├── config.py
+    ├── calculator.py
+    └── utils.py
 
 ---
 
@@ -110,11 +112,7 @@ Fare = distance × rate × surge (if applicable)
 
 ## Sample Output
 
-(Add your screenshot here)
-
-```id="3n5c6b"
-images/output.png
-```
+![Sample Output](images/output.png)
 
 ---
 
